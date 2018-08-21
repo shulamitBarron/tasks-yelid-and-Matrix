@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+       
+        function* foo(index) {
+
+            while (index < 1000) {
+                yield index **= 2;
+            }
+            return;
+        }
+
+        var iterator = foo(2);
+        var arr=Array.from(iterator);
+
+
+      
+        function callPromise(prevPromise, sec, timerIndex) {
+           return prevPromise.then(() => new Promise((resolve, reject) => {
+                 setTimeout(
+                     () => {
+                        
+                        console.log(` ${timerIndex}, waited ${sec} sec (${(new Date()).toLocaleTimeString()})`);
+                       resolve();
+                   }, sec * 1000)
+          }));
+       }
+        arr.reduce(callPromise,new Promise((x,y)=>{x()}))
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
