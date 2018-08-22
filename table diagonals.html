@@ -76,7 +76,7 @@
             svg.forEach(function (element) {
                 element.parentNode.style.background = "#6ab7ea";
             })
-            var mimad = Math.sqrt(svg.length);
+            var Dimension = Math.sqrt(svg.length);
             var i, j;
             for (var t = 0; t < svg.length; t++) {
                 i = svg[t].parentNode.getAttribute('data-i');
@@ -94,7 +94,7 @@
                 text: "upper"
             }
             , {
-                func: "i == j || eval( `${i}+${j}`) == mimad - 1"
+                func: "i == j || eval( `${i}+${j}`) == Dimension - 1"
                 ,
                 text: "diagonals"
             }
@@ -102,7 +102,7 @@
                 func: "i>j||i==j",
                 text: "down"
             }, {
-                func: "i==mimad-1||j==mimad-1||i==0||j==0",
+                func: "i==Dimension-1||j==Dimension-1||i==0||j==0",
                 text: "border"
             }
         ];
