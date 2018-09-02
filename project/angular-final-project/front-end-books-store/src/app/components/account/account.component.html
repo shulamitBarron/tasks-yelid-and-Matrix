@@ -1,0 +1,7 @@
+<nav>
+<button type="button" id="btnAccount" ><a [routerLink]="['/login']"> login</a></button>
+<button type="button" id="btnProducts" ><a [routerLink]="['/register']">register</a></button>
+<button *ngIf="true" type="button" id="btnCart" (click)="logoutCustomer()">logout </button>
+</nav>
+<router-outlet>
+</router-outlet>

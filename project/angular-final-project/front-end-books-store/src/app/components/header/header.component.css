@@ -1,0 +1,19 @@
+.gb_9a {
+    -webkit-background-size: 32px 32px;
+    background-size: 32px 32px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    z-index: 0;
+}
+.gbii::before {
+    content: url(https://lh3.googleusercontent.com/-IqymtnR1Jyo/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMvg0owtNBXNrKi15qIssGIRFUO7g/s32-c-mo/photo.jpg);
+}
+div{
+    background-color: aqua;
+}
