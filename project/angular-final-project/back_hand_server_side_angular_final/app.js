@@ -11,26 +11,11 @@ app.use(cors());
 //JSON אוביקט 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());// support json encoded bodies
-const basePath = path.join(__dirname + "/dist");
-
-
-app.get(`/`, (req, res) => {
-    let linkList = "";
-    let resPage = fs.readFileSync("links.html", "utf-8");
-    console.log(resPage);
-    fs.readdir(basePath, (err, files) => {
-        files.forEach((file) => {
-            linkList += `<li><a href="/${file}" target="blank">${file}</a></li>`;
-        })
-        res.send(resPage.replace("placeHolder", linkList));
-    });
-
-});
-
-
 //get -data
 //post -data
 
+//return only current customer
+              
 app.post("/api/addCustomerRegister", (req, res) => {
     //get all list
     let currentList = require("./customer.json");
@@ -40,7 +25,7 @@ app.post("/api/addCustomerRegister", (req, res) => {
         if (!thereIsAlreadyOneSame(req.body)) {//there is not this password & username yet
             currentList.push(req.body);//save data local
             fs.writeFileSync("customer.json", JSON.stringify(currentList));//save data global
-            res.status(201).send(JSON.stringify(currentList));
+            res.status(201).send(JSON.stringify(req.body));//return only new customer
         }
         else {
             res.status(402).send("exit this customer");
@@ -82,14 +67,14 @@ function isValid(sent) {
     // לפחות 2 תווים, מקסימום 15 תווים
     // יכול להיות אותיות באנגלית בלבד
 
-    if (!validCaracters(sent.firstName, 3))
+    if (!validCaracters(sent.firstName, 2,"^[a-zA-Z ]+$"))
         return false;
-    if (!validCaracters(sent.lastName, 3))
+    if (!validCaracters(sent.lastName, 2,"^[a-zA-Z ]+$"))
         return false;
     // תיבת קלט לשם משתמש
     // לפחות 3 תווים, מקסימום 15 תווים
     // יכול להיות אותיות באנגלית בלבד
-    if (!validCaracters(sent.userName, 2))
+    if (!validCaracters(sent.userName, 3,"^[a-zA-Z ]+$"))
         return false;
     //         תיבת קלט לסיסמה :Password
     // לפחות 5 תווים, מקסימום 10 תווים 
@@ -102,9 +87,9 @@ function isValid(sent) {
 
     return true;
 }
-function validCaracters(stringCheck, minLength) {
+function validCaracters(stringCheck, minLength,regExp) {
 
-    var regex = new RegExp("^[a-zA-Z ]+$");
+    var regex = new RegExp(regex);
     if (stringCheck.length < minLength || stringCheck.length > 15 || !regex.test(stringCheck)) {
 
         return false;
