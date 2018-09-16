@@ -1,0 +1,1 @@
+curl -v -x POST -H {"":""} -d "{\"name\":\"test\"} http://localhost:8000/api/client
