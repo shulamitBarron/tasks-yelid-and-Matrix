@@ -17,17 +17,12 @@ namespace MemoryGame
             if (ModelState.IsValid)
             {
                 lock (Global.UserList)
-                {
-                    if (Global.UserList.Any(u => u.UserName == user.UserName))
-                    {
-                        return BadRequest("there is this user name yet");
-                    }
+                {                                 
                     Global.UserList.Add(user);
                 }
                 return Ok();
             }
-             return Content(HttpStatusCode.BadRequest,ModelState.Values.Select(e => e.Errors).ToList());
-
+             return Content(HttpStatusCode.BadRequest,ModelState.Values.Select(e => e.Errors.Select(err=>err.ErrorMessage)).ToList());
         }
         [Route("api/getUsersWaitToPartner")]
         [HttpGet]
