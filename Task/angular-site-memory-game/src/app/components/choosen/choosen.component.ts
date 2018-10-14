@@ -16,7 +16,6 @@ export class ChoosenComponent implements OnInit {
   constructor(public userService: UserService, public router: Router) {
 
     this.currectUser = this.userService.currentUser;
-    console.log("giio" + this.currectUser);
     this.userService.getListPartners();
 
   }

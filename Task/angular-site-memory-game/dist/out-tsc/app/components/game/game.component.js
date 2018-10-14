@@ -36,7 +36,7 @@ var GameComponent = /** @class */ (function () {
                 _this.currentPartner = _this.userService.partnerUser;
                 _this.NameNow = data["CurrentTurn"];
                 _this.CardGameDictionary = data["CardArray"];
-                console.log(_this.CardGameDictionary);
+         
                 // this.randomCards();
                 _this.listRandomCards = _this.res.CardArray;
                 var i;
@@ -63,10 +63,10 @@ var GameComponent = /** @class */ (function () {
             do {
                 this.rand = Math.floor(Math.random() * 17 + 1);
             } while (this.listRandomCards[this.rand] != "-1");
-            console.log(i);
+       
             this.listRandomCards[this.rand] = Object.keys(this.CardGameDictionary)[i];
         }
-        console.log("bghgh");
+   
     };
     GameComponent.prototype.clicked = function (card) {
         var _this = this;
@@ -77,7 +77,7 @@ var GameComponent = /** @class */ (function () {
         if (this.isClicked == 2) {
             this.listChosenCards[1] = card.key;
             this.gameService.checkCard(this.listChosenCards).subscribe(function (res) {
-                console.log(res);
+            
                 if (!res["end"]) //not win
                  {
                     if (_this.listChosenCards[1] == _this.listChosenCards[0])
@@ -91,7 +91,7 @@ var GameComponent = /** @class */ (function () {
                     _this.res.CardArray = Object.keys(_this.res.CardArray).map(function (key) { return ({ key: key, value: _this.res.CardArray[key] }); });
                     _this.NameNow = data["CurrentTurn"];
                     _this.CardGameDictionary = data["CardArray"];
-                    console.log(_this.CardGameDictionary);
+            
                     // this.randomCards();
                     _this.listRandomCards = _this.res.CardArray.slice();
                 }, function (err) {

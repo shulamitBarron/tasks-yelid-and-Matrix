@@ -16,7 +16,6 @@ var ChoosenComponent = /** @class */ (function () {
         this.router = router;
         this.listChoosePartners = [];
         this.currectUser = this.userService.currentUser;
-        console.log("giio" + this.currectUser);
         this.userService.getListPartners();
     }
     ChoosenComponent.prototype.choosePartner = function (user) {
@@ -25,9 +24,7 @@ var ChoosenComponent = /** @class */ (function () {
         this.userService.choosePartner().subscribe(function (data) {
             _this.router.navigate(['/partner']);
         }, function (err) {
-            console.log(err.error);
         });
-        console.log(user);
     };
     ChoosenComponent.prototype.ngOnInit = function () {
         var _this = this;
