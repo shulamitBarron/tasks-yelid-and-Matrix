@@ -74,7 +74,8 @@ export class GameComponent implements OnInit {
     var i = 0;
     while (this.listRandomCardsFromServer.length > 0) {
       this.rand = Math.floor(Math.random() * this.listRandomCardsFromServer.length);
-      this.listRandomCardsFix[i++] = this.listRandomCardsFromServer[this.rand];
+      this.listRandomCardsFix[i++] = {key:this.listRandomCardsFromServer[this.rand]["key"],
+      value:this.listRandomCardsFromServer[this.rand]["value"]};//without pointer 
       this.listRandomCardsFromServer.splice(this.rand, 1);
     }
   }

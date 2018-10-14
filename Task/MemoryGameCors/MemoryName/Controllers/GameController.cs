@@ -1,9 +1,5 @@
 ﻿using MemoryGame.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace MemoryName.Controllers
@@ -17,7 +13,15 @@ namespace MemoryName.Controllers
             var currentGame = Global.GameList.FirstOrDefault(g => g.Player1.UserName == userName|| g.Player2.UserName == userName);
             return Ok(new { currentGame.CardArray, currentGame.CurrentTurn });
         }
-        [Route("api/updateTurn/{userName}")]///{firstCard}/{secondCard}
+        /// <summary>
+        /// put- get one param from url and other from body.
+        /// for update turn sent user name and list cards choosen -two card
+        /// and function return name turn now and param boolean if now it end game 
+        /// </summary>
+        /// <param name="userName">user name</param>
+        /// <param name="listChosen">{firstCard},{secondCard}</param>
+        /// <returns></returns>
+        [Route("api/updateTurn/{userName}")]
         [HttpPut]
         public IHttpActionResult UpdateTurn(string userName, [FromBody]string[] listChosen)
         {

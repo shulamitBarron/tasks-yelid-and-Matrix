@@ -1,9 +1,6 @@
 ﻿using MemoryGame.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace MemoryGame
@@ -17,31 +14,26 @@ namespace MemoryGame
         [HttpPost]
         public IHttpActionResult Login([FromBody]User user)
         {
-            if (user.UserName.Length < 2 || user.UserName.Length > 10)
+            if (ModelState.IsValid)
             {
-                return BadRequest("user name must be 2-10 letters");
-            }
-            if (user.Age < 18 || user.Age > 120)
-            {
-                return BadRequest("age must be between 18-120 years");
-            }
-            user.Score = 0;
-            lock (Global.UserList)
-            {
-                if (Global.UserList.Any(u => u.UserName == user.UserName))
+                lock (Global.UserList)
                 {
-                    return BadRequest("there is this userName");
+                    if (Global.UserList.Any(u => u.UserName == user.UserName))
+                    {
+                        return BadRequest("there is this user name yet");
+                    }
+                    Global.UserList.Add(user);
                 }
-                Global.UserList.Add(user);
+                return Ok();
             }
+             return Content(HttpStatusCode.BadRequest,ModelState.Values.Select(e => e.Errors).ToList());
 
-            return Ok();
         }
         [Route("api/getUsersWaitToPartner")]
         [HttpGet]
         public IHttpActionResult GetUsersWaitToPartner()
         {
-            return Ok(Global.UserList.Where(u => u.PartnerName == null).Select(p => new { p.UserName , p.Age }));
+            return Ok(Global.UserList.Where(u => u.PartnerName == null).Select(p => new { p.UserName, p.Age }));
         }
         [Route("api/getUserDetails/{userName}")]
         [HttpGet]
@@ -56,7 +48,7 @@ namespace MemoryGame
         {
             lock (Global.UserList)
             {
-               
+
                 var user = Global.UserList.FirstOrDefault(u => u.UserName == userName);
                 var partner = Global.UserList.FirstOrDefault(u => u.UserName == partnerUser.UserName);
                 if (user.PartnerName == null)
@@ -76,7 +68,7 @@ namespace MemoryGame
                         };
 
                         Global.GameList.Add(g);
-                       
+
                         return Ok();
 
                     }
