@@ -5,8 +5,7 @@
 * WinForms
 * Angular
 
-## System diagram:
-![picture](step1.png)
+
 
 ***
 ## Web api
@@ -48,10 +47,6 @@
     After the update it will check if the game is over (all the element in the `CardArray` contains value), If yes - the winner usrt will get 1 point to the `score` property.
 
 ***
-## WinForms +  Angular
-![picture](step2.png)   
-![picture](step3.png)   
-![picture](step4.png)   
-![picture](step5.png)   
+ 
 
 
