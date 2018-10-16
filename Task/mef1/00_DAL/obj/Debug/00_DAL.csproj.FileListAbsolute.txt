@@ -1,0 +1,12 @@
+C:\Users\seldat\Desktop\project\00_DAL\obj\Debug\00_DAL.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\project\00_DAL\obj\Debug\00_DAL.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\00_DAL.dll.config
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\00_DAL.dll
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\00_DAL.pdb
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\EntityFramework.dll
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\EntityFramework.xml
+C:\Users\seldat\Desktop\project\00_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seldat\Desktop\project\00_DAL\obj\Debug\00_DAL.csproj.CopyComplete
+C:\Users\seldat\Desktop\project\00_DAL\obj\Debug\00_DAL.dll
+C:\Users\seldat\Desktop\project\00_DAL\obj\Debug\00_DAL.pdb

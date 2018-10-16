@@ -1,0 +1,12 @@
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\02_BLL.dll
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\02_BLL.pdb
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\00_DAL.dll
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\00_DAL.pdb
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\00_DAL.dll.config
+C:\Users\seldat\Desktop\project\02_BLL\bin\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\project\02_BLL\obj\Debug\02_BLL.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\project\02_BLL\obj\Debug\02_BLL.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\project\02_BLL\obj\Debug\02_BLL.csproj.CopyComplete
+C:\Users\seldat\Desktop\project\02_BLL\obj\Debug\02_BLL.dll
+C:\Users\seldat\Desktop\project\02_BLL\obj\Debug\02_BLL.pdb

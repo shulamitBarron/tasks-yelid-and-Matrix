@@ -1,0 +1,6 @@
+C:\Users\seldat\Desktop\project\01_BOL\bin\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\project\01_BOL\bin\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\project\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\project\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\project\01_BOL\obj\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\project\01_BOL\obj\Debug\01_BOL.pdb
