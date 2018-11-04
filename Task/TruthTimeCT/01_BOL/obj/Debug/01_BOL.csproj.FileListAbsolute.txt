@@ -1,0 +1,52 @@
+C:\Users\seldat\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+C:\Users\user1\Desktop\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+C:\Users\user1\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+C:\Users\user1\Desktop\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+E:\jsa\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+E:\jsa\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+E:\jsa\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+E:\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+E:\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+E:\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+E:\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+E:\jsa\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+E:\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+E:\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+E:\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+E:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+E:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+E:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+E:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+E:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+G:\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+G:\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+G:\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb

@@ -1,0 +1,619 @@
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\03_uil.dll.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\03_uil.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\03_uil.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\csc.exe
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\csc.exe.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\csc.rsp
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\csi.exe
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\csi.exe.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\csi.rsp
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.AppContext.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Console.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.IO.Compression.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.Claims.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.ValueTuple.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\vbc.exe
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\vbc.exe.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\vbc.rsp
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\01_BOL.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\02_BLL.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\EntityFramework.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Google.Protobuf.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\MySql.Data.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Newtonsoft.Json.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Http.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\00_DAL.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\01_BOL.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\02_BLL.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\02_BLL.dll.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\EntityFramework.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Google.Protobuf.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\MySql.Data.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Newtonsoft.Json.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Http.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\00_DAL.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\00_DAL.dll.config
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CopyComplete
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Antlr3.Runtime.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Helpers.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Mvc.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Optimization.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Razor.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.WebPages.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\WebGrease.dll
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\Antlr3.Runtime.pdb
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Helpers.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Mvc.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Optimization.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.Razor.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.WebPages.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seldat\Desktop\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+C:\Users\user1\Desktop\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\03_uil.dll.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\03_uil.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\03_uil.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.exe
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.exe.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.rsp
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.exe
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.exe.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.rsp
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.AppContext.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Console.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.Compression.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Claims.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.ValueTuple.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.exe
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.exe.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.rsp
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\01_BOL.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\02_BLL.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Antlr3.Runtime.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\EntityFramework.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Google.Protobuf.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\MySql.Data.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Newtonsoft.Json.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Cors.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Helpers.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Mvc.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Optimization.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Razor.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\WebGrease.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\00_DAL.dll
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\01_BOL.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\02_BLL.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\02_BLL.dll.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Antlr3.Runtime.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\EntityFramework.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Google.Protobuf.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\MySql.Data.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Helpers.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Mvc.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Optimization.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Razor.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Newtonsoft.Json.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\00_DAL.pdb
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\bin\00_DAL.dll.config
+C:\Users\seldat\Desktop\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CopyComplete
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\03_uil.dll.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\03_uil.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\03_uil.pdb
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.exe
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.exe.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.rsp
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.exe
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.exe.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.rsp
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.AppContext.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Collections.Immutable.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Console.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.Process.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.Compression.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.Pipes.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.AccessControl.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Claims.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Threading.Thread.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.ValueTuple.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.exe
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.exe.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.rsp
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\01_BOL.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\02_BLL.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Antlr3.Runtime.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\EntityFramework.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Google.Protobuf.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Microsoft.Web.Infrastructure.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\MySql.Data.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Newtonsoft.Json.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Cors.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Helpers.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Mvc.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Optimization.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Razor.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\WebGrease.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\00_DAL.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\01_BOL.pdb
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\02_BLL.pdb
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\02_BLL.dll.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Antlr3.Runtime.pdb
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\EntityFramework.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Google.Protobuf.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\MySql.Data.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Helpers.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Mvc.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Optimization.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Razor.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Newtonsoft.Json.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\00_DAL.pdb
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\bin\00_DAL.dll.config
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CopyComplete
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+S:\Tamar Braverman\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
+E:\jsa\TruthTimeCT\03_uil\bin\03_uil.dll.config
+E:\jsa\TruthTimeCT\03_uil\bin\03_uil.dll
+E:\jsa\TruthTimeCT\03_uil\bin\03_uil.pdb
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.exe
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.exe.config
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\csc.rsp
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.exe
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.exe.config
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\csi.rsp
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.AppContext.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Collections.Immutable.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Console.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.Process.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.Compression.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.IO.Pipes.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Reflection.Metadata.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.AccessControl.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Claims.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Security.Principal.Windows.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Threading.Thread.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.ValueTuple.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XmlDocument.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.exe
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.exe.config
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\vbc.rsp
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe
+E:\jsa\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe.config
+E:\jsa\TruthTimeCT\03_uil\bin\01_BOL.dll
+E:\jsa\TruthTimeCT\03_uil\bin\02_BLL.dll
+E:\jsa\TruthTimeCT\03_uil\bin\Antlr3.Runtime.dll
+E:\jsa\TruthTimeCT\03_uil\bin\EntityFramework.dll
+E:\jsa\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.dll
+E:\jsa\TruthTimeCT\03_uil\bin\Google.Protobuf.dll
+E:\jsa\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\jsa\TruthTimeCT\03_uil\bin\Microsoft.Web.Infrastructure.dll
+E:\jsa\TruthTimeCT\03_uil\bin\MySql.Data.dll
+E:\jsa\TruthTimeCT\03_uil\bin\Newtonsoft.Json.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Cors.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Helpers.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Mvc.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Optimization.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Razor.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.dll
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.dll
+E:\jsa\TruthTimeCT\03_uil\bin\WebGrease.dll
+E:\jsa\TruthTimeCT\03_uil\bin\00_DAL.dll
+E:\jsa\TruthTimeCT\03_uil\bin\01_BOL.pdb
+E:\jsa\TruthTimeCT\03_uil\bin\02_BLL.pdb
+E:\jsa\TruthTimeCT\03_uil\bin\02_BLL.dll.config
+E:\jsa\TruthTimeCT\03_uil\bin\Antlr3.Runtime.pdb
+E:\jsa\TruthTimeCT\03_uil\bin\EntityFramework.xml
+E:\jsa\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.xml
+E:\jsa\TruthTimeCT\03_uil\bin\Google.Protobuf.xml
+E:\jsa\TruthTimeCT\03_uil\bin\MySql.Data.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Helpers.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Mvc.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Optimization.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Razor.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.xml
+E:\jsa\TruthTimeCT\03_uil\bin\Newtonsoft.Json.xml
+E:\jsa\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.xml
+E:\jsa\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\jsa\TruthTimeCT\03_uil\bin\00_DAL.pdb
+E:\jsa\TruthTimeCT\03_uil\bin\00_DAL.dll.config
+E:\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+E:\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+E:\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CopyComplete
+E:\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+E:\jsa\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
+E:\TruthTimeCT\03_uil\bin\03_uil.dll.config
+E:\TruthTimeCT\03_uil\bin\03_uil.dll
+E:\TruthTimeCT\03_uil\bin\03_uil.pdb
+E:\TruthTimeCT\03_uil\bin\roslyn\csc.exe
+E:\TruthTimeCT\03_uil\bin\roslyn\csc.exe.config
+E:\TruthTimeCT\03_uil\bin\roslyn\csc.rsp
+E:\TruthTimeCT\03_uil\bin\roslyn\csi.exe
+E:\TruthTimeCT\03_uil\bin\roslyn\csi.exe.config
+E:\TruthTimeCT\03_uil\bin\roslyn\csi.rsp
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.AppContext.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Collections.Immutable.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Console.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.Process.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.IO.Compression.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.IO.Pipes.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Reflection.Metadata.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.AccessControl.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Claims.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Principal.Windows.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Threading.Thread.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.ValueTuple.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TruthTimeCT\03_uil\bin\roslyn\vbc.exe
+E:\TruthTimeCT\03_uil\bin\roslyn\vbc.exe.config
+E:\TruthTimeCT\03_uil\bin\roslyn\vbc.rsp
+E:\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe
+E:\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe.config
+E:\TruthTimeCT\03_uil\bin\01_BOL.dll
+E:\TruthTimeCT\03_uil\bin\02_BLL.dll
+E:\TruthTimeCT\03_uil\bin\Antlr3.Runtime.dll
+E:\TruthTimeCT\03_uil\bin\EntityFramework.dll
+E:\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.dll
+E:\TruthTimeCT\03_uil\bin\Google.Protobuf.dll
+E:\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TruthTimeCT\03_uil\bin\Microsoft.Web.Infrastructure.dll
+E:\TruthTimeCT\03_uil\bin\MySql.Data.dll
+E:\TruthTimeCT\03_uil\bin\Newtonsoft.Json.dll
+E:\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Cors.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Helpers.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Http.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Mvc.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Optimization.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.Razor.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.WebPages.dll
+E:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.dll
+E:\TruthTimeCT\03_uil\bin\WebGrease.dll
+E:\TruthTimeCT\03_uil\bin\00_DAL.dll
+E:\TruthTimeCT\03_uil\bin\01_BOL.pdb
+E:\TruthTimeCT\03_uil\bin\02_BLL.pdb
+E:\TruthTimeCT\03_uil\bin\02_BLL.dll.config
+E:\TruthTimeCT\03_uil\bin\Antlr3.Runtime.pdb
+E:\TruthTimeCT\03_uil\bin\EntityFramework.xml
+E:\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.xml
+E:\TruthTimeCT\03_uil\bin\Google.Protobuf.xml
+E:\TruthTimeCT\03_uil\bin\MySql.Data.xml
+E:\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Helpers.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Http.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Mvc.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Optimization.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Razor.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.WebPages.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.xml
+E:\TruthTimeCT\03_uil\bin\Newtonsoft.Json.xml
+E:\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.xml
+E:\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TruthTimeCT\03_uil\bin\00_DAL.pdb
+E:\TruthTimeCT\03_uil\bin\00_DAL.dll.config
+E:\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+E:\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+E:\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CopyComplete
+E:\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+E:\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
+G:\TruthTimeCT\03_uil\bin\03_uil.dll.config
+G:\TruthTimeCT\03_uil\bin\03_uil.dll
+G:\TruthTimeCT\03_uil\bin\03_uil.pdb
+G:\TruthTimeCT\03_uil\bin\roslyn\csc.exe
+G:\TruthTimeCT\03_uil\bin\roslyn\csc.exe.config
+G:\TruthTimeCT\03_uil\bin\roslyn\csc.rsp
+G:\TruthTimeCT\03_uil\bin\roslyn\csi.exe
+G:\TruthTimeCT\03_uil\bin\roslyn\csi.exe.config
+G:\TruthTimeCT\03_uil\bin\roslyn\csi.rsp
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\TruthTimeCT\03_uil\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.AppContext.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Collections.Immutable.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Console.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.Process.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.IO.Compression.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.IO.Pipes.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Reflection.Metadata.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.AccessControl.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Claims.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Security.Principal.Windows.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Threading.Thread.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.ValueTuple.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XmlDocument.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\TruthTimeCT\03_uil\bin\roslyn\vbc.exe
+G:\TruthTimeCT\03_uil\bin\roslyn\vbc.exe.config
+G:\TruthTimeCT\03_uil\bin\roslyn\vbc.rsp
+G:\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe
+G:\TruthTimeCT\03_uil\bin\roslyn\VBCSCompiler.exe.config
+G:\TruthTimeCT\03_uil\bin\01_BOL.dll
+G:\TruthTimeCT\03_uil\bin\02_BLL.dll
+G:\TruthTimeCT\03_uil\bin\Antlr3.Runtime.dll
+G:\TruthTimeCT\03_uil\bin\EntityFramework.dll
+G:\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.dll
+G:\TruthTimeCT\03_uil\bin\Google.Protobuf.dll
+G:\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\TruthTimeCT\03_uil\bin\Microsoft.Web.Infrastructure.dll
+G:\TruthTimeCT\03_uil\bin\MySql.Data.dll
+G:\TruthTimeCT\03_uil\bin\Newtonsoft.Json.dll
+G:\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Cors.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Helpers.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Http.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Mvc.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Optimization.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.Razor.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.WebPages.dll
+G:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.dll
+G:\TruthTimeCT\03_uil\bin\WebGrease.dll
+G:\TruthTimeCT\03_uil\bin\00_DAL.dll
+G:\TruthTimeCT\03_uil\bin\01_BOL.pdb
+G:\TruthTimeCT\03_uil\bin\02_BLL.pdb
+G:\TruthTimeCT\03_uil\bin\02_BLL.dll.config
+G:\TruthTimeCT\03_uil\bin\Antlr3.Runtime.pdb
+G:\TruthTimeCT\03_uil\bin\EntityFramework.xml
+G:\TruthTimeCT\03_uil\bin\EntityFramework.SqlServer.xml
+G:\TruthTimeCT\03_uil\bin\Google.Protobuf.xml
+G:\TruthTimeCT\03_uil\bin\MySql.Data.xml
+G:\TruthTimeCT\03_uil\bin\System.Net.Http.Formatting.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Helpers.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Http.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Http.Cors.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Mvc.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Optimization.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Razor.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.WebPages.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Deployment.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.WebPages.Razor.xml
+G:\TruthTimeCT\03_uil\bin\Newtonsoft.Json.xml
+G:\TruthTimeCT\03_uil\bin\System.Web.Http.WebHost.xml
+G:\TruthTimeCT\03_uil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\TruthTimeCT\03_uil\bin\00_DAL.pdb
+G:\TruthTimeCT\03_uil\bin\00_DAL.dll.config
+G:\TruthTimeCT\03_uil\obj\Debug\03_uil.csprojAssemblyReference.cache
+G:\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CoreCompileInputs.cache
+G:\TruthTimeCT\03_uil\obj\Debug\03_uil.csproj.CopyComplete
+G:\TruthTimeCT\03_uil\obj\Debug\03_uil.dll
+G:\TruthTimeCT\03_uil\obj\Debug\03_uil.pdb
