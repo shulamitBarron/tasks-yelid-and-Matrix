@@ -185,7 +185,15 @@ namespace _02_BLL
 
             return DBUse.RunReader(query, func);
         }
-
-
+        //set all hours of usersProjects
+        public static bool SetAllUsersProjects(List<UserProject> userProjectForEdit)
+        {
+            foreach (UserProject userProject in userProjectForEdit)
+            {
+                if (!UpdateUserProject(userProject))
+                    return false;
+            }
+            return true;
+        }
     }
 }

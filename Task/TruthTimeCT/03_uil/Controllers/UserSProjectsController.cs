@@ -157,6 +157,19 @@ namespace _03_uil.Controllers
             };
 
         }
+        [HttpPut]
+        [Route("api/UserProjects/SetAllUsersProjects")]
+        public HttpResponseMessage SetAllUsersProjects([FromBody] List<UserProject> userProjectList)
+        {
+            return (LogicUserProject.SetAllUsersProjects(userProjectList)) ?
+                new HttpResponseMessage(HttpStatusCode.OK) :
+                new HttpResponseMessage(HttpStatusCode.BadRequest)
+                {
+                    Content = new ObjectContent<String>("Can not update in DB", new JsonMediaTypeFormatter())
+                };
+        }
+
     }
 }
+
 
