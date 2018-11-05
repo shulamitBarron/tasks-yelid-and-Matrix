@@ -104,7 +104,7 @@ namespace _03_uil.Controllers
                     };
         }
         [HttpGet]
-        [Route("api/Projects/GetAllProjectsUnderTheDirectionOfTheTeamLeader")]
+        [Route("api/Projects/GetAllProjectsUnderTheDirectionOfTheTeamLeader/{idTeamLeader}")]
         //return all project under teamLeader
         public HttpResponseMessage GetAllProjectsUnderTheDirectionOfTheTeamLeader(int idTeamLeader)
         {
@@ -231,7 +231,7 @@ namespace _03_uil.Controllers
         }
         //return all users under specipic teamLeader devided to projects
         [HttpGet]
-        [Route("api/Projects/GetUsersDevidedToProjectsUnderTeamLeader")]
+        [Route("api/Projects/GetUsersDevidedToProjectsUnderTeamLeader/{idTeamLeader}")]
         public static HttpResponseMessage GetUsersDevidedToProjectsUnderTeamLeader(int idTeamLeader)
         {
             Dictionary<Project, List<User>> allProjectsWithThemUsersUnderTeamLeader = new Dictionary<Project, List<User>>();

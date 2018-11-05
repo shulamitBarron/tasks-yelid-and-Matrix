@@ -137,18 +137,18 @@ namespace _03_uil.Controllers
         }
         //return x days and y hours that user worked on specipic project
         [HttpGet]
-        [Route("api/UserProjects/GetDaysAndHoursUserWorkedOnProject")]
+        [Route("api/UserProjects/GetDaysAndHoursUserWorkedOnProject/{idProject}/{idUser}")]
         public HttpResponseMessage GetDaysAndHoursUserWorkedOnProject(int idProject, int idUser)
         {
             return new HttpResponseMessage(HttpStatusCode.OK)
             {
-                Content = new ObjectContent<List<HoursOfUserProjectByDays>>(LogicUserProject.GetDaysAndHoursUserWorkedOnProject(idProject,idUser), new JsonMediaTypeFormatter())
+                Content = new ObjectContent<List<HoursOfUserProjectByDays>>(LogicUserProject.GetDaysAndHoursUserWorkedOnProject(idProject, idUser), new JsonMediaTypeFormatter())
             };
 
         }
         //return all names of users and userprojects under teamleader
         [HttpGet]
-        [Route("api/UserProjects/GetAllUserProjectUnderTeamLeaderWithNames")]
+        [Route("api/UserProjects/GetAllUserProjectUnderTeamLeaderWithNames/{idTeamLeader}")]
         public HttpResponseMessage GetAllUserProjectUnderTeamLeaderWithNames(int idTeamLeader)
         {
             return new HttpResponseMessage(HttpStatusCode.OK)
@@ -171,5 +171,4 @@ namespace _03_uil.Controllers
 
     }
 }
-
 
