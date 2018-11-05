@@ -162,7 +162,7 @@ namespace _02_BLL
         //return all names of users and userprojects under teamleader
         public static List<UserProjectHelp> GetAllUserProjectUnderTeamLeaderWithNames(int idTeamLeader)
         {
-            string query = $"SELECT up.* FROM truth_time_ct.users_projects up join truth_time_ct.projects p on up.idProject=p.idProject and p.idTeamLeader={idTeamLeader}";
+            string query = $"SELECT up.* FROM truth_time_ct.users_projects up join truth_time_ct.projects p on up.idProject=p.idProject and p.idTeamLeader={idTeamLeader} where p.active=true;";
             List<User> allUsersUnderTeamLeader = LogicUsers.GetAllUsersUnderTeamLeader(idTeamLeader);
             List<Project> allProjectUnderTeamLeader = LogicProjects.GetProjectsUnderTeamLeader(idTeamLeader);
             Func<MySqlDataReader, List<UserProjectHelp>> func = (reader) =>

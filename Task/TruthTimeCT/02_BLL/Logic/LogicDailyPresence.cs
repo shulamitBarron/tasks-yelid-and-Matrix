@@ -101,9 +101,9 @@ namespace _02_BLL
         public static List<UserProjectHelp> GetNamesProjectsAndIdUPTodayForUser(int IdUser)
         {
             string query = $"SELECT idUserProject,projectName FROM truth_time_ct.users_projects as up join truth_time_ct.projects as p " +
-                $"on p.idProject=up.idProject where up.idUser=1 and up.idProject " +
+                $"on p.idProject=up.idProject where up.idUser={IdUser} and up.idProject " +
                 $"in(SELECT idProject from truth_time_ct.projects where startDate <= DATE(NOW()) and endDate>= DATE(NOW()) and idProject " +
-                $"in (select idProject from truth_time_ct.users_projects where idUser = 1))";
+                $"in (select idProject from truth_time_ct.users_projects where idUser = {IdUser}))";
             Func<MySqlDataReader, List<UserProjectHelp>> func = (reader) =>
             {
                 List<UserProjectHelp> TasksForTodayOfCurrentUsers = new List<UserProjectHelp>();
