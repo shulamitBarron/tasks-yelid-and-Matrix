@@ -47,7 +47,7 @@ namespace _02_BLL
         //update hours for  userProject
         public static bool UpdateUserProject(UserProject userProject)
         {
-            string query = $"UPDATE truth_time_ct.users_projects SET hoursProjectUser='{userProject.HoursProjectUser}' WHERE idProject = {userProject.IdUserProject}";
+            string query = $"UPDATE truth_time_ct.users_projects SET hoursProjectUser={userProject.HoursProjectUser} WHERE idUserProject = {userProject.IdUserProject}";
             return DBUse.RunNonQuery(query) == 1;
         }
 
