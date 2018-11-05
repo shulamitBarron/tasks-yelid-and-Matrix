@@ -13,7 +13,7 @@ namespace _01_BOL.Validations
         {
             DateTime startDateProject = (validationContext.ObjectInstance as Project).StartDate;
             DateTime endDateProject = (DateTime)value;
-            return ((endDateProject - startDateProject).TotalHours > 0) ? null :
+            return ((endDateProject - startDateProject).TotalHours >= 0) ? null :
                 new ValidationResult("EndDateTime has to be bigger than StartDateTime");
         }
     }
