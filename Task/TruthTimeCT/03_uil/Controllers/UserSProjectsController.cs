@@ -168,7 +168,17 @@ namespace _03_uil.Controllers
                     Content = new ObjectContent<String>("Can not update in DB", new JsonMediaTypeFormatter())
                 };
         }
+        //return all deatails of specipic user project//change
+        [HttpGet]
+        [Route("api/UserProjects/AllDetailsUserProjectOfSpecipicUser/{idUser}")]
+        public HttpResponseMessage AllDetailsUserProjectOfSpecipicUser(int idUser)
+        {
+            return new HttpResponseMessage(HttpStatusCode.OK)
+            {
+                Content = new ObjectContent<List<UserProjectHelp>>(LogicUserProject.AllDetailsUserProjectOfSpecipicUser(idUser), new JsonMediaTypeFormatter())
+            };
 
+        }
     }
 }
 

@@ -58,3 +58,11 @@ E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCo
 E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
 E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
 E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+C:\Users\user1\Documents\GitHub\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb

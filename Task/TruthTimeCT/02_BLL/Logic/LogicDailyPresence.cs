@@ -43,8 +43,15 @@ namespace _02_BLL
         public static bool UpdateDailyPresence(DailyPresence daliyPresence)
         {
             //check if first time or only update end time
-         
-            string query=$"SELECT distinct d2.idDaliyPresence into @a FROM truth_time_ct.daily_presence as d2 where d2.idUserProject = 2 and d2.startDatePresence = d2.endDatePresence;UPDATE truth_time_ct.daily_presence as d SET d.endDatePresence = NOW() where d.idDaliyPresence = @a";
+
+            // string query=$"SELECT distinct d2.idDaliyPresence into @a FROM truth_time_ct.daily_presence as d2 where d2.idUserProject = 2 and d2.startDatePresence = d2.endDatePresence;UPDATE truth_time_ct.daily_presence as d SET d.endDatePresence = NOW() where d.idDaliyPresence = @a";
+            //change
+            string formatForMySqlEndDatePresence = daliyPresence.EndDatePresence.ToString("yyyy-MM-dd HH:mm:ss");
+            string query = $"SELECT distinct d2.idDaliyPresence into @a FROM truth_time_ct.daily_presence as d2 where d2.idUserProject ={ daliyPresence.IdUserProjectFK}" +
+               $" and d2.startDatePresence = d2.endDatePresence; UPDATE truth_time_ct.daily_presence as d SET d.endDatePresence = '{ formatForMySqlEndDatePresence}'" +
+               $" where d.idDaliyPresence = @a";
+
+
             return DBUse.RunNonQuery(query) == 1;
         }
 

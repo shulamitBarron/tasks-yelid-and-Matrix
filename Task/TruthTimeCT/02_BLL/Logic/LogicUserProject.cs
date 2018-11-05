@@ -50,7 +50,8 @@ namespace _02_BLL
             string query = $"UPDATE truth_time_ct.users_projects SET hoursProjectUser={userProject.HoursProjectUser} WHERE idUserProject = {userProject.IdUserProject}";
             return DBUse.RunNonQuery(query) == 1;
         }
-
+ 
+  
         public static bool AddUserProject(UserProject userProject)
         {
             string query = $"INSERT INTO truth_time_ct.users_projects VALUES (0,'{userProject.HoursProjectUser}'" +
@@ -113,13 +114,42 @@ namespace _02_BLL
                         IdProject = (int)reader[0],
                         ProjectName = (string)reader[1],
                         IdTeamLeader = (int)reader[2],
+                        
                     });
                 }
                 return Projects;
             };
 
             return DBUse.RunReader(query, func);
-        }     
+        }
+        //return all deatails of specipic user project//change
+        public static List<UserProjectHelp> AllDetailsUserProjectOfSpecipicUser(int idUser)
+        {
+            string query = $"" +
+                $"SELECT p.projectName,p.startDate,p.endDate ,up.hoursProjectUser,u.userName FROM truth_time_ct.Projects p join truth_time_ct.users_projects up on p.idProject = up.idProject" +
+                $"join truth_time_ct.users u on p.idTeamLeader = u.idUser" +
+                $"WHERE up.idUser = {idUser}";
+
+            Func<MySqlDataReader, List<UserProjectHelp>> func = (reader) =>
+            {
+                List<UserProjectHelp> userProjectHelp = new List<UserProjectHelp>();
+                while (reader.Read())
+                {
+                    userProjectHelp.Add(new UserProjectHelp
+                    {
+                        NameProject = (string)reader[0],
+                        StartDate=(DateTime)reader[1],
+                        EndDate = (DateTime)reader[2],
+                        HoursProjectUser=(int)reader[3],
+                        NameUser=(string)reader[4]
+
+                    });
+                }
+                return userProjectHelp;
+            };
+
+            return DBUse.RunReader(query, func);
+        }
         //return x days and y hours that user worked on specipic project
         public static  List<HoursOfUserProjectByDays> GetDaysAndHoursUserWorkedOnProject(int idProject,int idUser)
         {
