@@ -127,8 +127,8 @@ namespace _02_BLL
         {
             string query = $"" +
                 $"SELECT p.projectName,p.startDate,p.endDate ,up.hoursProjectUser,u.userName FROM truth_time_ct.Projects p join truth_time_ct.users_projects up on p.idProject = up.idProject" +
-                $"join truth_time_ct.users u on p.idTeamLeader = u.idUser" +
-                $"WHERE up.idUser = {idUser}";
+                $" join truth_time_ct.users u on p.idTeamLeader = u.idUser" +
+                $" WHERE up.idUser = {idUser}";
 
             Func<MySqlDataReader, List<UserProjectHelp>> func = (reader) =>
             {
@@ -141,7 +141,7 @@ namespace _02_BLL
                         StartDate=(DateTime)reader[1],
                         EndDate = (DateTime)reader[2],
                         HoursProjectUser=(int)reader[3],
-                        NameUser=(string)reader[4]
+                        NameTeamLeader=(string)reader[4]
 
                     });
                 }
