@@ -50,3 +50,11 @@ G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
 G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
 G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
 G:\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\bin\Debug\01_BOL.dll
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\bin\Debug\01_BOL.pdb
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\bin\Debug\System.Web.Cors.dll
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csprojAssemblyReference.cache
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CoreCompileInputs.cache
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.csproj.CopyComplete
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.dll
+E:\tasks-yelid-and-Matrix\Task\TruthTimeCT\01_BOL\obj\Debug\01_BOL.pdb

@@ -14,7 +14,7 @@ namespace _01_BOL.Validations
         {
             DateTime startDatePresence = (validationContext.ObjectInstance as DailyPresence).StartDatePresence;
             DateTime endDatePresence = (DateTime)value;
-            return ((endDatePresence - startDatePresence).TotalHours > 0) ? null :
+            return ((endDatePresence - startDatePresence).TotalHours >= 0) ? null :
                 new ValidationResult("EndDateTime has to be bigger than StartDateTime");
         }
 
