@@ -45,7 +45,11 @@ namespace _02_BLL
             //check if first time or only update end time
             string formatForMySqlEndDatePresence = daliyPresence.EndDatePresence.ToString("yyyy-MM-dd HH:mm:ss");
             string query = $"SELECT distinct d2.idDaliyPresence FROM truth_time_ct.daily_presence as d2 where d2.idUserProject ={ daliyPresence.IdUserProjectFK} and d2.startDatePresence = d2.endDatePresence;";
+<<<<<<< HEAD
             string rezult = DBUse.RunScalar(query).ToString();
+=======
+            string rezult=  DBUse.RunScalar(query).ToString();
+>>>>>>> f3da8777330074dda4d1dd1f5ea2becabd06065a
             query = $" UPDATE truth_time_ct.daily_presence as d SET d.endDatePresence = '{ formatForMySqlEndDatePresence}'" +
                     $" where d.idDaliyPresence = {rezult}";
             return DBUse.RunNonQuery(query) == 1;
