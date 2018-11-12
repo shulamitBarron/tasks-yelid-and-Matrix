@@ -12,6 +12,8 @@ namespace _03_uil.Controllers
 {
     public class DailyPresenceController : ApiController
     {
+
+
         // GET: api/DailyPresence
         public HttpResponseMessage Get()
         {
@@ -20,15 +22,6 @@ namespace _03_uil.Controllers
                 Content = new ObjectContent<List<DailyPresence>>(LogicDailyPresence.GetAllDailyPresence(), new JsonMediaTypeFormatter())
             };
         }
-
-        // GET: api/Users/5
-        //public HttpResponseMessage Get(int id)
-        //{
-        //    return new HttpResponseMessage(HttpStatusCode.OK)
-        //    {
-        //        Content = new ObjectContent<String>(LogicDailyPresence.(id), new JsonMediaTypeFormatter())
-        //    };
-        //}
 
         // POST: api/Users
         public HttpResponseMessage Post([FromBody]DailyPresence value)
