@@ -1,0 +1,17 @@
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\CountriesWindowsForms_Api.exe.config
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\CountriesWindowsForms_Api.exe
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\CountriesWindowsForms_Api.pdb
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.csprojAssemblyReference.cache
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.Form1.resources
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.Properties.Resources.resources
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.csproj.GenerateResource.cache
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.csproj.CoreCompileInputs.cache
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.exe
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.pdb
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\Json.NET.Web.dll
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\Newtonsoft.Json.dll
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\Newtonsoft.Json.xml
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\obj\Debug\CountriesWindowsForms_Api.csproj.CopyComplete
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\Svg.dll
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\Svg.pdb
+S:\eini\c#\CountriesWindowsForms_Api\CountriesWindowsForms_Api\bin\Debug\Svg.xml

@@ -1,0 +1,10 @@
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.csprojAssemblyReference.cache
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.Form1.resources
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.Properties.Resources.resources
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.csproj.GenerateResource.cache
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.csproj.CoreCompileInputs.cache
+S:\eini\c#\threadNum\threadNum\bin\Debug\threadNum.exe.config
+S:\eini\c#\threadNum\threadNum\bin\Debug\threadNum.exe
+S:\eini\c#\threadNum\threadNum\bin\Debug\threadNum.pdb
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.exe
+S:\eini\c#\threadNum\threadNum\obj\Debug\threadNum.pdb
