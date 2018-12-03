@@ -1,0 +1,7 @@
+S:\eini\c#\deligates\deligates\bin\Debug\deligates.exe.config
+S:\eini\c#\deligates\deligates\bin\Debug\deligates.exe
+S:\eini\c#\deligates\deligates\bin\Debug\deligates.pdb
+S:\eini\c#\deligates\deligates\obj\Debug\deligates.csprojAssemblyReference.cache
+S:\eini\c#\deligates\deligates\obj\Debug\deligates.csproj.CoreCompileInputs.cache
+S:\eini\c#\deligates\deligates\obj\Debug\deligates.exe
+S:\eini\c#\deligates\deligates\obj\Debug\deligates.pdb
